@@ -1,0 +1,97 @@
+[
+  {
+    "parent_code": "0",
+    "label": "Andalucía",
+    "code": "01"
+  },
+  {
+    "parent_code": "0",
+    "label": "Aragón",
+    "code": "02"
+  },
+  {
+    "parent_code": "0",
+    "label": "Asturias, Principado de",
+    "code": "03"
+  },
+  {
+    "parent_code": "0",
+    "label": "Balears, Illes",
+    "code": "04"
+  },
+  {
+    "parent_code": "0",
+    "label": "Canarias",
+    "code": "05"
+  },
+  {
+    "parent_code": "0",
+    "label": "Cantabria",
+    "code": "06"
+  },
+  {
+    "parent_code": "0",
+    "label": "Castilla y León",
+    "code": "07"
+  },
+  {
+    "parent_code": "0",
+    "label": "Castilla - La Mancha",
+    "code": "08"
+  },
+  {
+    "parent_code": "0",
+    "label": "Cataluńa",
+    "code": "09"
+  },
+  {
+    "parent_code": "0",
+    "label": "Comunitat Valenciana",
+    "code": "10"
+  },
+  {
+    "parent_code": "0",
+    "label": "Extremadura",
+    "code": "11"
+  },
+  {
+    "parent_code": "0",
+    "label": "Galicia",
+    "code": "12"
+  },
+  {
+    "parent_code": "0",
+    "label": "Madrid, Comunidad de",
+    "code": "13"
+  },
+  {
+    "parent_code": "0",
+    "label": "Murcia, Región de",
+    "code": "14"
+  },
+  {
+    "parent_code": "0",
+    "label": "Navarra, Comunidad Foral de",
+    "code": "15"
+  },
+  {
+    "parent_code": "0",
+    "label": "País Vasco",
+    "code": "16"
+  },
+  {
+    "parent_code": "0",
+    "label": "Rioja, La",
+    "code": "17"
+  },
+  {
+    "parent_code": "0",
+    "label": "Ceuta",
+    "code": "18"
+  },
+  {
+    "parent_code": "0",
+    "label": "Melilla",
+    "code": "19"
+  }
+]
